@@ -27,8 +27,9 @@
 | - | - | - |
 | ![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/emissions_10.png) |![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/transitions_10.png) | ![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/K562_10_overlap.png)|
 
-Custom track был настроен с помощью bed-файла dense.bed. Были добавлены треки CpG островков и laminB1lads.
-![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/ucsc_1.pdf)|
+Custom track был настроен с помощью bed-файла dense.bed. Были добавлены треки CpG островков и laminB1lads. Результаты по трем разным участкам 10 хромосомы лежат в файлах ucsc_1.pdf, ucsc_2.pdf, ucsc_3.pdf в папке data.
+
+На основе результатов ChroHMM и геномному браузеру, а также [статье](https://static-content.springer.com/esm/art%3A10.1038%2Fnbt.1662/MediaObjects/41587_2010_BFnbt1662_MOESM5_ESM.pdf), мной были сделаны следующие предположения.
 
 | Состояние | Название | Расположение | Метки |
 | - | - | - | - |
