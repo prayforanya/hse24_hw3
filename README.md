@@ -43,3 +43,7 @@ Custom track был настроен с помощью bed-файла dense.bed.
 | 8 | weak enhancer | laminB1lads | H3k4me1 и H2az 
 | 9 | active promoter | CpGIslands, RefSeqExon, RefSeqTES, RefSeqTSS и RefSeqTSS2kb | H3k9ac, H3k4me2, H3k4me3 и H2az|
 | 10 | active promoter  | RefSeqExon, RefSeqTES и RefSeqTSS2kb | H3K27ac, H3k9ac, H3k4me2 и H3k4me3 |
+
+## Бонус
+
+Вручную поправила файл K562_10_dense.bed в TextEdit с помощью команды cntrl+f. Новый файл весит больше 25Мб, поэтому его пришлось заархивировать. Новый файл лежит в папке data под названием upadate_dense.bed.zip. Визуализация в геномном браузере разных участков лежат в файлах updated_ucsc_1.pdf, updated_ucsc_2.pdf, updated_ucsc_3.pdf в папке data.
