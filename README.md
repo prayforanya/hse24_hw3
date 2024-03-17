@@ -1,7 +1,7 @@
 # hse24_hw3
 В данной работе я продолжила рассматривать клеточную линию K562
 
-|Клеточная линия | Имя в табличке | Файл |
+| Клеточная линия | Имя в табличке | Файл |
 | - | - | - |
 |K562 |H2az |wgEncodeBroadHistoneK562H2azStdAlnRep1.bam |
 |K562 |H3k27ac |wgEncodeBroadHistoneK562H3k27acStdAlnRep1.bam
@@ -18,9 +18,8 @@
 | - | - |
 | K562 | wgEncodeBroadHistoneK562ControlStdAlnRep1.bam |
 
-
-| Состояние| Название | Расположение | Метки|
-| ---| --- | --— | ---|
+| Состояние | Название | Расположение | Метки |
+| - | - | - | - |
 | 1 | heterochromatin |  laminB1lads и RefSeqTES  | H3K27me3(вероятность мала) |
 | 2 | ﻿unmappable | laminB1lads | -  |
 | 3 | Transcriptional elongation  | RefSeqTES, RefSeqGene и RefSeqExon | H3k36me3 (вероятность мала) |
