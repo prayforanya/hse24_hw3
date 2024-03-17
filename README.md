@@ -18,6 +18,11 @@
 | - | - |
 | K562 | wgEncodeBroadHistoneK562ControlStdAlnRep1.bam |
 
+| Emission parametrs | Transition parameters | Fold Enrichment K562|
+| - | - | - |
+|![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/emissions_10.png) | ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/transitions_10.png) |
+![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/K562_10_overlap.png) |
+
 | Состояние | Название | Расположение | Метки |
 | - | - | - | - |
 | 1 | heterochromatin |  laminB1lads и RefSeqTES  | H3K27me3(вероятность мала) |
