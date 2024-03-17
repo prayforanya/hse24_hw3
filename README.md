@@ -17,3 +17,17 @@
 |Клеточная линия | Файл контроля |
 | - | - |
 | K562 | wgEncodeBroadHistoneK562ControlStdAlnRep1.bam |
+
+
+| Состояние| Название | Расположение | Метки|
+| ---| --- | --— | ---|
+| 1 | heterochromatin |  laminB1lads и RefSeqTES  | H3K27me3(вероятность мала) |
+| 2 | ﻿unmappable | laminB1lads | -  |
+| 3 | Transcriptional elongation  | RefSeqTES, RefSeqGene и RefSeqExon | H3k36me3 (вероятность мала) |
+| 4 | Transcriptional transition | RefSeqGene | H3k79me2 |
+| 5 | Strong enhancer  |  RefSeqTES и RefSeqGene | H3k79me2 и H3k4me1 |
+| 6 | weak promoter| RefSeqTES | H3k4me1|
+| 7 |  strong enhancer | RefSeqTES и RefSeqExon | H3k4me1, H3k27ac и H2az |
+| 8 | weak enhancer | laminB1lads | H3k4me1 и H2az 
+| 9 |  active promoter | CpGIslands, RefSeqExon, RefSeqTES, RefSeqTSS и RefSeqTSS2kb | H3k9ac, H3k4me2, H3k4me3 и H2az|
+| 10 | active romoter  | RefSeqExon, RefSeqTES и RefSeqTSS2kb | H3K27ac, H3k9ac, H3k4me2 и H3k4me3 |
