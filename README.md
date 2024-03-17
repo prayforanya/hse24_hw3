@@ -20,8 +20,9 @@
 
 | Emission parametrs | Transition parameters | Fold Enrichment K562|
 | - | - | - |
-| ![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/emissions_10.png) | ![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/transitions_10.png) |
-![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/K562_10_overlap.png) |
+| ![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/emissions_10.png) | 
+![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/transitions_10.png) |
+![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/K562_10_overlap.png)|
 
 | Состояние | Название | Расположение | Метки |
 | - | - | - | - |
