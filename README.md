@@ -18,6 +18,11 @@
 | - | - |
 | K562 | wgEncodeBroadHistoneK562ControlStdAlnRep1.bam |
 
+## ChromHMM
+
+Файл cellmarkfiletable.txt был создан вручную по мануалу. 
+
+Результаты работы [нотбука](https://colab.research.google.com/drive/1ad7zThEya2KaeNOx7Pk0lJNzhnGi-qsM?usp=sharing лежат в папке data.)
 | Emission parametrs | Transition parameters | Fold Enrichment K562|
 | - | - | - |
 | ![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/emissions_10.png) |![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/transitions_10.png) | ![image](https://github.com/prayforanya/hse24_hw3/blob/main/data/K562_10_overlap.png)|
